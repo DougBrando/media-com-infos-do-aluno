@@ -13,7 +13,7 @@ Digite o nome do aluno: João
 Digite a média de João: 8.5
 
 ## Exemplo de Uso
-Informações do Aluno:
-Nome é igual a João
-Media é igual a 8.5
-Situacao é igual a Aprovado
+- Informações do Aluno:
+- Nome é igual a João
+- Media é igual a 8.5
+- Situacao é igual a Aprovado
